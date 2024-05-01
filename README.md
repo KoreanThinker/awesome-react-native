@@ -916,7 +916,7 @@ Components and native modules.
 * [fbt ★3202](https://github.com/facebookincubator/fbt) - A JavaScript Internationalization Framework
 * [react-native-localize ★603](https://github.com/react-native-community/react-native-localize) - React Native Localize
 * [react-native-globalize ★192](https://github.com/joshswan/react-native-globalize) - Globalization helper for React Native
-
+* [react-native-translator ★78](https://github.com/KoreanThinker/react-native-translator) - Unlimited free google translate component & hook (Unofficial)
 * [redux-react-native-i18n ★40](https://github.com/derzunov/redux-react-native-i18n) - An i18n solution for React Native apps on Redux
 * [react-native-intl ★37](https://github.com/taggon/react-native-intl) - React Native module shipped native Intl implementation and Translation extension
 * [rn-translate-template ★18](https://github.com/hiaw/rn-translate-template) - I18n template for all iOS and Android supported languages
